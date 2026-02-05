@@ -268,6 +268,10 @@ results = model.train(
 
 ### Training Curves
 
+<p align="center">
+  <img src="assets/results.png" alt="Demo" width="1200"/>
+</p>
+
 The model shows excellent convergence:
 
 - **Box Loss**: 1.10 → 0.41 (localization accuracy)
@@ -478,11 +482,7 @@ For questions, suggestions, or collaboration opportunities:
 
 - **Project Repository**: [https://github.com/shahriar-hd/FarsiPlateRecognition](https://github.com/shahriar-hd/FarsiPlateRecognition)
 - **Issues**: [GitHub Issues](https://github.com/shahriar-hd/FarsiPlateRecognition/issues)
-- **Email**: project.team@example.com
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=shahriar-hd/FarsiPlateRecognition&type=Date)](https://star-history.com/#shahriar-hd/FarsiPlateRecognition&Date)
+- **Email**: shahriar.hd@outlook.com
 
 ---
 

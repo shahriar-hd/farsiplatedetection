@@ -60,6 +60,7 @@ runs/
 weights/
 
 # Output
+!assets/.gitkeep
 output_results/
 test_images/
 *.mp4
